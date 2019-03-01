@@ -1,5 +1,27 @@
 # hello-world
-First repository for training
-#This is just a test for github
-There is nothing for this readme.
-In this time, I will add this line to test by myself.
+##Next code use python:
+```python
+#Say hello-world use python
+print("hello-world")
+```
+#
+##Next code use lisp:
+>(princ "hello-world")
+
+#
+##Next code use BASIC:
+>print "hello-world"
+
+#
+##Next code use C:
+```C
+/*code by C*/
+main()
+{
+print("hello-world");
+}
+```
+
+#
+-----END------
+
